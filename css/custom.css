@@ -1,0 +1,58 @@
+body {
+	padding-top: 50px;
+	}
+
+/*-----member-list---page*/
+.sea_fild{
+	margin-top:10px;
+}	
+	
+/*---end -----member-list---page*/	
+.for-text{
+	text-align:justify;
+	overflow:hidden;
+	
+}
+.feture{
+	background-color:yellowgreen;
+	color:greenyellow;
+}
+
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+	text-align: center;
+    background-color: lightskyblue;
+}
+
+.footer-blurb h3 {
+    color: midnightblue;
+    }
+    
+.footer-blurb-item {
+    padding: 30px 0;
+    }
+ 
+.copyright {
+	background-color: #fff;
+	text-align: center;
+	padding: 30px 0;
+}
+.dep-spa{
+	color:blue;
+	font-size:18px;
+}
+
+.about_img{
+	padding-bottom:15px;
+	
+}
+table{
+	width:100%;
+}
+.img-box{
+	height:200px;
+}
